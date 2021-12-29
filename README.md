@@ -1,13 +1,6 @@
 ### Hello ${World} 👋
 
 I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
-
-:computer: My workspace
-
-
-
-<br>
-
 <p align="left">
   <a href="mailto:wladinart@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wladinart@gmail.com" /></a>
@@ -21,10 +14,21 @@ I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
   <a href="https://www.instagram.com/wladi_veras" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wladi_veras"/></a>
 </p>  
+<br>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem sou eu?
+:computer: My workspace<br>
+![System](http://img.shields.io/static/v1?label=&message=Debian&color=red&style=for-the-badge&logo=debian)
+![System](http://img.shields.io/static/v1?label=i7&message=8700k&color=blue&style=for-the-badge&logo=intel)
+![System](http://img.shields.io/static/v1?label=ddr4&message=16GB&color=blue&style=for-the-badge&logo=ddr4)
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+<br>
+
+
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Who i am?
+
+<img align="right" width="300" height="230" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
 const Developer = {
