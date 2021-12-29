@@ -3,6 +3,9 @@
 I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
 
 :computer: My workspace
+
+
+
 <br>
 
 <p align="left">
@@ -26,7 +29,7 @@ I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
 ```javascript
 const Developer = {
     name: 'Wladi Veras',
-    acknowledgements: 'Desenvolvedor FullStack',
+    acknowledgements: 'FullStack Developer',
     primarySkillSet: ['TypeScript', 'Vuejs', 'Node.js', 'Laravel', 'MySQL'],
     skills: {
         languages: ['PHP', 'JavaScript', 'TypeScript', 'Node.js', 'HTML', 'CSS'],
@@ -36,7 +39,7 @@ const Developer = {
 }
 ```
 
-**Aplicações e Dados**
+**technology and Application**
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,7 +59,7 @@ const Developer = {
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 
-**Utilidades**
+**Utility**
 
   ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -75,12 +78,12 @@ const Developer = {
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Administração de Sistemas**
+**System Administration**
 
   ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
@@ -93,7 +96,7 @@ const Developer = {
 
 <br/>
 
-##  🚀 **GitHub Estatísticas**
+##  🚀 **GitHub Stats**
 
 <a href="https://github.com/wladiveras">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wladiveras&show_icons=true&theme=dracula&line_height=27" alt="**Wladi Veras** github stats"/>
@@ -101,12 +104,4 @@ const Developer = {
 <a href="https://github.com/wladiveras">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladiveras&theme=dracula&hide_langs_below=1" />
 </a>
-
-
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
