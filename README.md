@@ -1,7 +1,10 @@
-### Hello ${World} 👋
+<h1 align="center">Hello ${World} 👋</h1>
 
+<p align="center">
 I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
-<p align="left">
+</p>
+
+<p align="center">
   <a href="mailto:wladinart@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wladinart@gmail.com" /></a>
 
@@ -14,16 +17,18 @@ I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
   <a href="https://www.instagram.com/wladi_veras" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wladi_veras"/></a>
 </p>  
-<br>
-
-:computer: My workspace<br>
-![System](http://img.shields.io/static/v1?label=&message=Debian&color=red&style=for-the-badge&logo=debian)
-![System](http://img.shields.io/static/v1?label=i7&message=8700k&color=blue&style=for-the-badge&logo=intel)
-![System](http://img.shields.io/static/v1?label=ddr4&message=16GB&color=blue&style=for-the-badge&logo=ddr4)
-
 
 <br>
 
+<p align="center">
+:computer: My workspace
+</p>
+
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=&message=Debian&color=red&style=for-the-badge&logo=debian"/>
+  <img src="http://img.shields.io/static/v1?label=i7&message=8700k&color=blue&style=for-the-badge&logo=intel"/>
+  <img src="http://img.shields.io/static/v1?label=ddr4&message=16GB&color=blue&style=for-the-badge&logo=ddr4"/>
+</p>
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Who i am?
@@ -42,6 +47,9 @@ const Developer = {
     }
 }
 ```
+
+<br>
+<br>
 
 **technology and Application**
 
@@ -97,7 +105,6 @@ const Developer = {
   ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
   ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-
 <br/>
 
 ##  🚀 **GitHub Stats**
@@ -105,6 +112,7 @@ const Developer = {
 <a href="https://github.com/wladiveras">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wladiveras&show_icons=true&theme=dracula&line_height=27" alt="**Wladi Veras** github stats"/>
 </a><br>
+
 <a href="https://github.com/wladiveras">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladiveras&theme=dracula&hide_langs_below=1" />
 </a>
