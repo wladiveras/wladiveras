@@ -46,6 +46,7 @@ const Developer = {
     }
 }
 ```
+
 <br>
 <br>
 
@@ -110,8 +111,11 @@ const Developer = {
 <a href="https://github.com/wladiveras">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wladiveras&show_icons=true&theme=dracula&line_height=27" alt="**Wladi Veras** github stats"/>
 </a>
+
 <br>
+
 <a href="https://github.com/wladiveras">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladiveras&theme=dracula&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladiveras&theme=dracula&layout=compact&hide_langs_below=1" />
 </a>
+
 <br>
