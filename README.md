@@ -30,7 +30,6 @@ I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
   <img src="http://img.shields.io/static/v1?label=ddr4&message=16GB&color=blue&style=for-the-badge&logo=ddr4"/>
 </p>
 
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Who i am?
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -47,7 +46,6 @@ const Developer = {
     }
 }
 ```
-
 <br>
 <br>
 
@@ -111,8 +109,8 @@ const Developer = {
 
 <a href="https://github.com/wladiveras">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wladiveras&show_icons=true&theme=dracula&line_height=27" alt="**Wladi Veras** github stats"/>
-</a><br>
-
+</a>
+<br>
 <a href="https://github.com/wladiveras">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladiveras&theme=dracula&hide_langs_below=1" />
 </a>
