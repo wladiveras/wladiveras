@@ -27,7 +27,7 @@ I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=&message=Debian&color=red&style=for-the-badge&logo=debian"/>
   <img src="http://img.shields.io/static/v1?label=i7&message=8700k&color=blue&style=for-the-badge&logo=intel"/>
-  <img src="http://img.shields.io/static/v1?label=ddr4&message=16GB&color=blue&style=for-the-badge&logo=ddr4"/>
+  <img src="http://img.shields.io/static/v1?label=ddr4&message=24GB&color=blue&style=for-the-badge&logo=ddr4"/>
 </p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Who i am?
