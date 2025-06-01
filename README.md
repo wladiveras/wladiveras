@@ -32,7 +32,7 @@ I focus on building scalable applications using TypeScript, Vue (Nuxt), React, N
 
  <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,nuxt,react,next,nodejs,express,nest,laravel,mysql,postgres,mongodb,git,github,vscode,docker,figma,postman,linux,jest,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,nuxt,vite,vitest,pinia,react,next,nodejs,express,nest,laravel,c,cs,cpp,dotnet,mysql,dynamodb,supabase,firebase,postgres,mongodb,githubactions,git,github,gitlab,bitbucket,vscode,docker,figma,postman,linux,jest,gcp,cloudflare,vercel,vite,figma,nginx,apache" />
   </a>
 </div>
 
