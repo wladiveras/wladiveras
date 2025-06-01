@@ -25,20 +25,20 @@ I focus on building scalable applications using TypeScript, Vue (Nuxt), React, N
 
  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wladiveras&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wladiveras&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wladiveras&theme=2077&utcOffset=-3)](https://wladi.com.br) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wladiveras&theme=2077)](https://wladi.com.br) |  
  | ----------- | ----------- |
 
 <br/>
 
  <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://wladi.com.br">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,nuxt,vite,vitest,pinia,react,next,nodejs,express,nest,laravel,c,cs,cpp,dotnet,mysql,dynamodb,supabase,firebase,postgres,mongodb,githubactions,git,github,gitlab,bitbucket,vscode,docker,figma,postman,linux,jest,gcp,cloudflare,vercel,figma,nginx,jquery,kali" />
   </a>
 </div>
 
 <br/>
 
- | [![](https://github-trophies.vercel.app/?username=wladiveras&theme=radical&no-frame=false&no-bg=false&margin-w=4)]() | [![](https://github-readme-streak-stats.herokuapp.com/?user=wladiveras&theme=radical&hide_border=false)]() |  
+ | [![](https://github-trophies.vercel.app/?username=wladiveras&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://wladi.com.br) | [![](https://github-readme-streak-stats.herokuapp.com/?user=wladiveras&theme=radical&hide_border=false)](https://wladi.com.br) |  
  | ----------- | ----------- |
 
  
