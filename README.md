@@ -38,12 +38,16 @@ I focus on building scalable applications using TypeScript, Vue (Nuxt), React, N
 
 <br/>
 
+
+ | [![](https://github-trophies.vercel.app/?username=wladiveras&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![](https://github-readme-streak-stats.herokuapp.com/?user=wladiveras&theme=radical&hide_border=false)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
  <div align="center">
 
-![](https://github-trophies.vercel.app/?username=wladiveras&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=wladiveras&theme=radical&hide_border=false)
+
 
 </div>
