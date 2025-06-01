@@ -25,3 +25,8 @@ I focus on building scalable applications using TypeScript, Vue (Nuxt), React, N
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+
+
+![](https://github-trophies.vercel.app/?username=wladiveras&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=wladiveras&theme=radical&hide_border=false)<br/>
