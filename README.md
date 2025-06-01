@@ -21,35 +21,7 @@ I focus on building scalable applications using TypeScript, Vue (Nuxt), React, N
 
 <br>
 
-<p align="center">
-:computer: My workspace
-</p>
-
-<p align="center">
-  <img src="http://img.shields.io/static/v1?label=&message=Debian&color=red&style=for-the-badge&logo=debian"/>
-  <img src="http://img.shields.io/static/v1?label=i7&message=8700k&color=blue&style=for-the-badge&logo=intel"/>
-  <img src="http://img.shields.io/static/v1?label=ddr4&message=24GB&color=blue&style=for-the-badge&logo=ddr4"/>
-</p>
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Who i am?
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```javascript
-const Developer = {
-    name: 'Wladi Veras',
-    acknowledgements: 'FullStack Developer',
-    primarySkillSet: ['TypeScript', 'Vuejs', 'Node.js', 'Laravel', 'MySQL'],
-    skills: {
-        languages: ['PHP', 'JavaScript', 'TypeScript', 'Node.js', 'HTML', 'CSS'],
-        frameworks: ['Vuejs', 'Laravel', 'express'],
-        tools: ['Git', 'GitHub', 'Yarn', 'NPM', 'MongoDB Compass', 'DBeaver', 'Mysql Workbench'],
-    }
-}
-```
-
-<br>
-<br>
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 **technology and Application**
 
