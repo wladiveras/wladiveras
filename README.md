@@ -5,6 +5,8 @@ I'm a fullstack developer with 4 years of experience working with modern web tec
 I focus on building scalable applications using TypeScript, Vue (Nuxt), React, Node.js, and Laravel.
 </p>
 
+<br/>
+
 <p align="center">
   <a href="mailto:wladinart@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wladinart@gmail.com" /></a>
@@ -25,6 +27,16 @@ I focus on building scalable applications using TypeScript, Vue (Nuxt), React, N
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wladiveras&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wladiveras&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+
+<br/>
+
+ <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,nuxt,react,next,nodejs,express,nest,laravel,mysql,postgres,mongodb,git,github,vscode,docker,figma,postman,linux,jest,vercel,vite" />
+  </a>
+</div>
+
+<br/>
 
  <div align="center">
 
