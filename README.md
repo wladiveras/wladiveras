@@ -1,7 +1,8 @@
 <h1 align="center">Hello ${World} 👋</h1>
 
 <p align="center">
-I'm Wladi Veras, fullstack Developer from Rio de Janeiro, brazil
+I'm a fullstack developer with 4 years of experience working with modern web technologies.  
+I focus on building scalable applications using TypeScript, Vue (Nuxt), React, Node.js, and Laravel.
 </p>
 
 <p align="center">
